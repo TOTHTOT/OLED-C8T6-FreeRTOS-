@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "timer.h": "c",
+        "led.h": "c",
+        "malloc.h": "c",
+        "lora.h": "c",
+        "main.h": "c",
+        "string.h": "c",
+        "delay.h": "c"
+    }
+}
